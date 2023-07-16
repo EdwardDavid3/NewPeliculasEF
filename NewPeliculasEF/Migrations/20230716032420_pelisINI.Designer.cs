@@ -13,8 +13,8 @@ using NewPeliculasEF;
 namespace NewPeliculasEF.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230716023148_cineofertaFK")]
-    partial class cineofertaFK
+    [Migration("20230716032420_pelisINI")]
+    partial class pelisINI
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

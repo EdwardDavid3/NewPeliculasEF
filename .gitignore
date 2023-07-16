@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/NewPeliculasEF/Migrations/20230716023148_cineofertaFK.Designer.cs
