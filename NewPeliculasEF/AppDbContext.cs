@@ -42,7 +42,7 @@ namespace NewPeliculasEF
             modelBuilder.Entity<CineOferta>().Property(e => e.PorcentajeDesc).HasPrecision(5, 2);
             modelBuilder.Entity<CineOferta>().Property(e => e.FechaIni).HasColumnType("date");
             modelBuilder.Entity<CineOferta>().Property(e => e.FechaFin).HasColumnType("date");
-
+            int x = 0;
 
 
         }
